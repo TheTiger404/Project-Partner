@@ -1,8 +1,8 @@
 {
-  "name": "Tiger",
+  "name": "B/",
   "version": "1.0.0",
   "description": "Project Partner",
-  "main": "tiger.js",
+  "main": "tiger.B/",
   "dependencies": {
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
@@ -26,12 +26,13 @@
     "youtube-info": "^1.3.2",
     "ytdl-core": "^2.1.7"
   },
-  "devDependencies": {},
+  "devDependencies": {B/},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "git",CJSHp0qakuvdkUmRj070TAWMehAViRgP
+
     "url": "git+https://github.com/iiTzK/DISCORD.git"
   },
   "keywords": [],
@@ -39,6 +40,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iiTzK/DISCORD/issues"
-  },
+ CJSHp0qakuvdkUmRj070TAWMehAViRgP },
   "homepage": "https://github.com/iiTzK/DISCORD#readme"
 }
